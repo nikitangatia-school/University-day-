@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://strathmore.edu/wp-content/uploads/2023/12/Artboard-1.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: navy; 
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+.content {
+    background-color: white; 
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 8px; 
+}
+
+h3 {
+    color: navy;
+    /*margin-top: 0;*/
+}
+footer {
+    background-color: green;
+    color: whitesmoke;
+    text-align: left;
+    padding: 25px;
+    margin-top: 60px;
+}
